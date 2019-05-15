@@ -1,0 +1,211 @@
+[	
+	{
+
+		"make": "Audi",
+
+		"model": "A7",
+
+		"vin": "09AGHY64352JITEG98K",
+
+		"metadata" : {
+
+			"Color" : "Black",
+
+			"Notes" : "Scratches on the front side of the car"
+
+		},
+
+		"perdayrent" : {
+
+			"Price" : 140,
+
+			"Discount" : 15
+
+		},
+
+		"metrics" : {
+
+			"yoymaintenancecost" : 2190.76,
+
+			"depreciation": 2256.43,
+
+			"rentalcount" : {
+
+				"lastweek" : 4,
+
+				"yeartodate" : 221
+
+			}
+
+		}
+
+	},
+
+	{
+
+		"make": "Audi",
+
+		"model": "A6",
+
+		"vin": "DCGH7IS76ZWGMYNTYBZ",
+
+		"metadata" : {
+
+			"Color" : "Black",
+
+			"Notes" : "Scratches on the front side of the car"
+
+		},
+
+		"perdayrent" : {
+
+			"Price" : 100,
+
+			"Discount" : 15
+
+		},
+
+		"metrics" : {
+
+			"yoymaintenancecost" : 2190.76,
+
+			"depreciation": 2256.43,
+
+			"rentalcount" : {
+
+				"lastweek" : 4,
+
+				"yeartodate" : 221
+
+			}
+
+		}
+
+	},
+
+	{
+
+		"make": "Audi",
+
+		"model": "A5",
+
+		"vin": "0HFW63CPD8YB4D5KEL9",
+
+		"metadata" : {
+
+			"Color" : "Black",
+
+			"Notes" : "Scratches on the front side of the car"
+
+		},
+
+		"perdayrent" : {
+
+			"Price" : 120,
+
+			"Discount" : 15
+
+		},
+
+		"metrics" : {
+
+			"yoymaintenancecost" : 2190.76,
+
+			"depreciation": 2256.43,
+
+			"rentalcount" : {
+
+				"lastweek" : 4,
+
+				"yeartodate" : 221
+
+			}
+
+		}
+
+	},
+
+	{
+
+		"make": "Audi",
+
+		"model": "A4",
+
+		"vin": "FI9NGBYWAEYZ6HA599K",
+
+		"metadata" : {
+
+			"Color" : "Black",
+
+			"Notes" : "Scratches on the front side of the car"
+
+		},
+
+		"perdayrent" : {
+
+			"Price" : 100,
+
+			"Discount" : 30
+
+		},
+
+		"metrics" : {
+
+			"yoymaintenancecost" : 2190.76,
+
+			"depreciation": 2256.43,
+
+			"rentalcount" : {
+
+				"lastweek" : 4,
+
+				"yeartodate" : 221
+
+			}
+
+		}
+
+	},
+
+	{
+
+		"make": "Audi",
+
+		"model": "A3",
+
+		"vin": "XGJBKN2U5R7LTM2WTKZ",
+
+		"metadata" : {
+
+			"Color" : "Black",
+
+			"Notes" : "Scratches on the front side of the car"
+
+		},
+
+		"perdayrent" : {
+
+			"Price" : 80,
+
+			"Discount" : 10
+
+		},
+
+		"metrics" : {
+
+			"yoymaintenancecost" : 2190.76,
+
+			"depreciation": 2256.43,
+
+			"rentalcount" : {
+
+				"lastweek" : 4,
+
+				"yeartodate" : 221
+
+			}
+
+		}
+
+	}
+]
